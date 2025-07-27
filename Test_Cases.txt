@@ -1,0 +1,38 @@
+Test Case 1 (Default Values - Sector 36)
+Input:
+"A standard 2BHK flat in Sector 36. It includes 2 bedrooms, 1 bathroom, and 1 balcony. The built-up area is 1,000 sqft. This is a New Property, unfurnished, and located on a Low Floor. It does not include a servant room or a store room. Predict the price of this property."
+
+Test Case 2 (Luxury Upgrade - Sector 45)
+Input:
+"A luxurious 3BHK flat in Sector 45. It includes 3 bedrooms, 2 bathrooms, and 2 balconies. The built-up area is 1,500 sqft. This is a New Property, fully furnished, and falls under the High Floor category. It includes a servant room and a spacious store room. Predict the price of this property."
+
+Test Case 3 (Old & Unfurnished Property - Sector 92)
+Input:
+"A budget-friendly 2BHK flat in Sector 92. It includes 2 bedrooms, 1 bathroom, and 1 balcony. The built-up area is 900 sqft. This is a 10-year-old property, unfurnished, and located on a Low Floor. There is no servant room or store room. Predict the price of this property."
+
+Test Case 4 (Spacious High-End Apartment - Sector 78)
+Input:
+"A premium 4BHK flat in Sector 78. It features 4 bedrooms, 3 bathrooms, and 3 balconies. The built-up area is 2,000 sqft. This is a Newly Constructed property, fully furnished, and located on a High Floor. It includes a servant room and a spacious store room. Predict the price of this property."
+
+Test Case 5 (Mid-Range Family Home - Sector 110)
+Input:
+"A comfortable 3BHK house in Sector 110. It comes with 3 bedrooms, 3 bathrooms, and 2 balconies. The built-up area is 1,800 sqft. This is a Moderately Old property, semi-furnished, and located on a Mid Floor. It includes a servant room but no store room. Predict the price of this property."
+
+Test Case 6 (Affordable Compact Apartment - Sector 15)
+Input:
+"A budget 1BHK flat in Sector 15. It includes 1 bedroom, 1 bathroom, and no balcony. The built-up area is 600 sqft. This is a 12-year-old property, unfurnished, and located on a Low Floor. It does not include a servant room or a store room. Predict the price of this property."
+
+Test Case 7 (Modern Mid-Range Apartment - Sector 67)
+Input:
+"A modern 2BHK flat in Sector 67. It features 2 bedrooms, 2 bathrooms, and 1 balcony. The built-up area is 1,200 sqft. This is a Relatively New property, semi-furnished, and located on a Mid Floor. There is no servant room, but a store room is available. Predict the price of this property."
+
+Test Case 8 (Ultra-Luxury Penthouse - Sector 21)
+Input:
+"An ultra-luxury 5BHK penthouse in Sector 21. It boasts 5 bedrooms, 5 bathrooms, and 4 balconies. The built-up area is 3,500 sqft. This is a Newly Constructed property, fully furnished, and located on a High Floor. It includes both a servant room and a spacious store room. Predict the price of this property."
+
+Test Case 9 (Luxury Apartment with City View - Sector 55)
+Input:
+"A high-end 3BHK flat in Sector 55. It includes 3 bedrooms, 3 bathrooms, and 3 balconies with a city view. The built-up area is 1,800 sqft. This is a Relatively New property, fully furnished, and situated on a High Floor. It features a servant room and a store room. Predict the price of this property."
+
+Test Case 10: (Incorrect input to show Error):
+"An ultra-luxury 5BHK penthouse in Sector 100. It boasts 5 bedrooms, 5 bathrooms, and 4 balconies. The built-up area is 3,500 sqft. This is a Newly Constructed property, fully furnished, and located on a High Floor. It includes both a servant room and a spacious store room. Predict the price of this property."
